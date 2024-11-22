@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "eva3dm"]
+	path = eva3dm
+	url = https://github.com/schuch666/eva3dm
